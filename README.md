@@ -12,7 +12,7 @@
     <h3>Minha Stack:</h3>
     <p>JavaScript | React.js | HTML | CSS | Git & GitHub</p>
     <a href="https://github.com/MarcoAntonioRubioTuci" target="_blank">Meu GitHub</a>
-    <a href="https://linkedin.com/in/SEU-LINK" target="_blank">Meu LinkedIn</a>
+    <a href="https://linkedin.com/in/marco-antonio-tuci-54918a1a6" target="_blank">Meu LinkedIn</a>
   </div>
 </body>
 </html>
